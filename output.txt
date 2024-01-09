@@ -1,0 +1,4 @@
+this is a output .txt file created using vi command
+:WWWQq
+:WQ
+
